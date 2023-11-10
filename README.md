@@ -28,20 +28,18 @@ In this project, we will delve into the world of Secure Shell (SSH), a widely us
 
 - SSH-1: The version of SSH published by Tatu Ylönen in 1995 is known as SSH-1 or version 1.x. The original implementation was released as freeware in July 1995. In December of the same year, Ylönen founded SSH Communications Security to market SSH-1 as a product.
 
-<p align="center">
-  <img src="https://github.com/Giapppp/Secure-Shell/blob/main/images/Screenshot%202023-11-10%20214216.png" alt="SSH-1 Handshake">
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/Giapppp/Secure-Shell/blob/main/images/Screenshot%202023-11-10%20214216.png">
 </p>
-
 
 - OpenSSH: In 1999, some developers decided to create an open-source SSH variant from version 1.2.12 of the original program. Initially, this became OSSH, and eventually, under the direction of the OpenBSD team, OpenSSH. OpenSSH now only supports version 2.0.
 
 
 - SSH 2.0: Version 2.0 of SSH is a complete redesign of the SSH protocol. The architecture of SSH 2.0 is described in RFC 4251 [3]. 
 
-<p align="center">
-  <img src="https://github.com/Giapppp/Secure-Shell/blob/main/images/ssh_0304.gif" alt="SSH-2.0">
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/Giapppp/Secure-Shell/blob/main/images/ssh_0304.gif">
 </p>
-
 
 ## Application Scenarios
 
