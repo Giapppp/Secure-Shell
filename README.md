@@ -30,6 +30,7 @@ In this project, we will delve into the world of Secure Shell (SSH), a widely us
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/Giapppp/Secure-Shell/blob/main/images/Screenshot%202023-11-10%20214216.png">
+    SSH-1 Handshake<br>
 </p>
 
 - OpenSSH: In 1999, some developers decided to create an open-source SSH variant from version 1.2.12 of the original program. Initially, this became OSSH, and eventually, under the direction of the OpenBSD team, OpenSSH. OpenSSH now only supports version 2.0.
@@ -39,6 +40,7 @@ In this project, we will delve into the world of Secure Shell (SSH), a widely us
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/Giapppp/Secure-Shell/blob/main/images/ssh_0304.gif">
+    SSH 2.0<br>
 </p>
 
 ## Application Scenarios
