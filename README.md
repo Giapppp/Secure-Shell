@@ -91,7 +91,7 @@ In this project, we will delve into the world of Secure Shell (SSH), a widely us
 
     - POC (with Writeup): https://dev.to/brompwnie/modifying-go-s-crypto-ssh-library-for-cve-2020-9283-26a7
 
-- Fix: For Debian 9 stretch, these problems have been fixed in version 1:0.0~git20170407.0.55a552f+REALLY.0.0~git20161012.0.5f31782-1+deb8u1.
+- Fix: For Debian 9 stretch, these problems have been fixed in version 1:0.0\~git20170407.0.55a552f+REALLY.0.0\~git20161012.0.5f31782-1+deb8u1.
 
 ## References
 
